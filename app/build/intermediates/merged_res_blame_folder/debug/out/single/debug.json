@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_card_bg.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_dot_abaixo.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/dot_abaixo.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/layout_activity_resultado.xml.flat",
+        "source": "com.example.imcapp-main-33:/layout/activity_resultado.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.imcapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_dot_ob3.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/dot_ob3.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_dot_ob1.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/dot_ob1.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/layout_activity_splash.xml.flat",
+        "source": "com.example.imcapp-main-33:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_dot_normal.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/dot_normal.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_dot_ob2.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/dot_ob2.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_dot_sobrepeso.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/dot_sobrepeso.xml"
+    },
+    {
+        "merged": "com.example.imcapp-merged_res-31:/drawable_input_bg.xml.flat",
+        "source": "com.example.imcapp-main-33:/drawable/input_bg.xml"
+    }
+]
